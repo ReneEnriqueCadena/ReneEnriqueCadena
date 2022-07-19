@@ -1,6 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm René Enrique Cadena</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina!</h3>
+
+- 🔭 I’m currently working on my portfolio [a](a)
+
+- 🌱 I’m currently learning English in Open English [a](a)
 
 - 📫 How to reach me **renecadenacontacto@gmail.com**
 
